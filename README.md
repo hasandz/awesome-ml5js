@@ -27,7 +27,8 @@ Work In Progress - Awesome List for ml5js
 ## Tutorials
 > Tutorials in the form of blog posts or videos that cover a specific topic using ml5.js
 
-
+- [The Coding Train - Beginners Guide to Machine Learning in JavaScript](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y)
+  - The theory and application of machine learning algorithms is demonstrated in JavaScript using the p5.js and ml5.js libraries.
 
 
 ## Presentations & Talks
